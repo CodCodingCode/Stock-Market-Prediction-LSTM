@@ -1,5 +1,6 @@
-Stock Price Prediction using LSTM
+
 Overview
+
 This project aims to predict the closing stock prices of Microsoft (MSFT) using a Long Short-Term Memory (LSTM) model, a type of recurrent neural network known for its ability to remember long sequences of data. We leverage historical stock price data to train our LSTM model, with the goal of forecasting future prices based on patterns learned from the past. This README provides an overview of the project setup, including how to prepare your environment, train the model, and evaluate its performance.
 
 Project Structure
